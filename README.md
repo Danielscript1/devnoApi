@@ -14,6 +14,6 @@
     1.0.0
 
 #### Deploy da Aplicação
-vercel "Frontend" ->  https://api-teste-seven.vercel.app/
-Heroku "Backend" ->   https://teste3.herokuapp.com/links/
+- vercel "Frontend" ->  https://api-teste-seven.vercel.app/ 
+- Heroku "Backend" ->   https://teste3.herokuapp.com/links/
 
